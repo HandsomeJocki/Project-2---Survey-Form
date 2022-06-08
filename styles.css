@@ -1,0 +1,123 @@
+
+* {
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+}
+
+.one {
+    
+    text-align: center;
+    background-color: white;
+    margin-top: -1rem;
+
+
+}
+
+.two {
+border: 2px black solid;
+padding: 2rem;
+margin: auto;
+width: 25%;
+background-color: white;
+/* margin-top: 2.5%;
+margin-bottom: 2.5%; */
+
+}
+
+label {
+ 
+    padding-left: 15px;
+   
+}
+
+
+
+
+textarea {
+    width: 92%;
+}
+
+/* .breed {
+    text-align: center;
+    align-items: center;
+} */
+
+
+
+form {
+    margin: 2%;
+    background-color: white;
+}
+
+input {
+    margin: 5%;
+}
+
+span {
+    font-size: large;
+    font-weight: 400;
+}
+
+.check {
+
+  display: block;
+  margin-left: 5%;
+   
+
+}
+
+h1 {
+    font-family: 'Cedarville Cursive', cursive;
+    text-transform: capitalize;
+    font-size: 3rem;
+    padding-top: 0;
+  
+}
+
+h2 {
+    font-family: 'Cedarville Cursive', cursive;
+    text-transform: capitalize;
+    position: relative;
+    display: block;
+
+
+}
+
+.six {
+    font-family: 'Cedarville Cursive', cursive;
+    text-transform: capitalize;
+    position: relative;
+}
+
+
+.four {
+    text-align: center;
+    background-color: white;
+    height: 5rem;
+    padding-top: 2rem;
+    width: 100%;
+    margin-top: 3rem;
+}
+
+.logo {
+    clear: left;
+    width: 200px;
+    position:absolute;
+}
+
+.back {
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    background-attachment: fixed;
+}
+
+body {
+    background-image: url(images/2346347.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
